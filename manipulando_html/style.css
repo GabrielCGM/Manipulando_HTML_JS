@@ -1,0 +1,15 @@
+#div-principal button{
+    padding: 20px;
+    background-color: green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+    cursor: pointer;
+    border-radius: 30px;
+    font-weight: bold;
+
+}
+
+#div-principal button:hover{
+    background-color: rgb(24, 190, 9);
+   
+}
